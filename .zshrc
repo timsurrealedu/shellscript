@@ -83,4 +83,4 @@ export PATH=$PATH:/home/timsurreal/.spicetify
 export PATH=$PATH:~/.spicetify
 export NEWT_COLORS='window=,blue'
 
-e
+export PATH="$HOME/.local/bin:$PATH"
